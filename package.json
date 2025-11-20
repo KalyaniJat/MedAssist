@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase": "^12.5.0",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.9.5",
+    "remark-gfm": "^4.0.1"
+  }
+}
